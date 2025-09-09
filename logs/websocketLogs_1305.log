@@ -126,3 +126,99 @@
 2025-08-28 10:07:32,078 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
 2025-08-28 10:07:40,373 - {'message': 'Stock GODPRO subscribed successfully'}
 2025-08-28 10:08:10,374 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-02 11:30:10,706 - {'message': 'Stock ICIGOL subscribed successfully'}
+2025-09-02 11:30:40,718 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-02 11:30:46,910 - {'message': 'Stock ICIPSE subscribed successfully'}
+2025-09-02 11:31:16,912 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-02 11:31:29,756 - {'message': 'Stock KOTN50 subscribed successfully'}
+2025-09-02 11:31:59,759 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-02 11:32:35,300 - {'message': 'Stock SBINIF subscribed successfully'}
+2025-09-02 11:33:05,302 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-02 11:33:12,030 - {'message': 'Stock CPSETF subscribed successfully'}
+2025-09-02 11:33:42,032 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-02 11:33:58,183 - {'message': 'Stock HDF250 subscribed successfully'}
+2025-09-02 11:34:28,184 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-02 11:34:37,168 - {'message': 'Stock ICI150 subscribed successfully'}
+2025-09-02 11:35:07,170 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-02 11:35:13,608 - {'message': 'Stock ICIAUT subscribed successfully'}
+2025-09-02 11:35:43,610 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-02 11:35:51,085 - {'message': 'Stock ICIFMC subscribed successfully'}
+2025-09-02 11:36:21,087 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-02 11:36:31,709 - {'message': 'Stock ICIHEA subscribed successfully'}
+2025-09-02 11:37:01,711 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-02 11:37:24,911 - {'message': 'Stock MOTNAS subscribed successfully'}
+2025-09-02 11:37:54,913 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-02 11:38:01,235 - {'message': 'Stock SBIEIT subscribed successfully'}
+2025-09-02 11:38:31,236 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-02 11:38:58,788 - {'message': 'Stock ICIEXB subscribed successfully'}
+2025-09-02 11:39:28,789 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-02 11:39:39,848 - {'message': 'Stock SBIBAN subscribed successfully'}
+2025-09-02 11:40:09,849 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-02 11:40:41,597 - {'message': 'Stock MAHMAH subscribed successfully'}
+2025-09-02 11:41:11,598 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-02 11:41:17,949 - {'message': 'Stock GODPRO subscribed successfully'}
+2025-09-02 11:41:47,950 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-03 09:15:53,206 - {'message': 'Stock ICIGOL subscribed successfully'}
+2025-09-03 09:16:23,217 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-03 09:16:28,460 - {'message': 'Stock ICIPSE subscribed successfully'}
+2025-09-03 09:16:58,461 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-03 09:17:03,170 - {'message': 'Stock KOTN50 subscribed successfully'}
+2025-09-03 09:17:33,172 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-03 09:17:38,141 - {'message': 'Stock SBINIF subscribed successfully'}
+2025-09-03 09:18:08,142 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-03 09:18:13,330 - {'message': 'Stock CPSETF subscribed successfully'}
+2025-09-03 09:18:43,331 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-03 09:18:48,833 - {'message': 'Stock HDF250 subscribed successfully'}
+2025-09-03 09:19:18,834 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-03 09:19:24,095 - {'message': 'Stock ICI150 subscribed successfully'}
+2025-09-03 09:19:54,097 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-03 09:20:06,988 - {'message': 'Stock ICIAUT subscribed successfully'}
+2025-09-03 09:20:36,988 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-03 09:20:45,880 - {'message': 'Stock ICIFMC subscribed successfully'}
+2025-09-03 09:21:15,881 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-03 09:21:20,865 - {'message': 'Stock ICIHEA subscribed successfully'}
+2025-09-03 09:21:50,867 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-03 09:21:58,749 - {'message': 'Stock MOTNAS subscribed successfully'}
+2025-09-03 09:22:28,750 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-03 09:22:33,499 - {'message': 'Stock SBIEIT subscribed successfully'}
+2025-09-03 09:23:03,500 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-03 09:23:10,176 - {'message': 'Stock ICIEXB subscribed successfully'}
+2025-09-03 09:23:40,177 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-03 09:23:45,034 - {'message': 'Stock SBIBAN subscribed successfully'}
+2025-09-03 09:24:15,034 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-03 09:24:21,954 - {'message': 'Stock MAHMAH subscribed successfully'}
+2025-09-03 09:24:51,954 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-03 09:24:59,783 - {'message': 'Stock GODPRO subscribed successfully'}
+2025-09-03 09:25:29,783 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-09 09:40:06,753 - {'message': 'Stock ICIGOL subscribed successfully'}
+2025-09-09 09:40:36,755 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-09 09:40:43,016 - {'message': 'Stock ICIPSE subscribed successfully'}
+2025-09-09 09:41:13,018 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-09 09:41:19,807 - {'message': 'Stock KOTN50 subscribed successfully'}
+2025-09-09 09:41:49,808 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-09 09:41:56,863 - {'message': 'Stock SBINIF subscribed successfully'}
+2025-09-09 09:42:26,864 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-09 09:42:35,949 - {'message': 'Stock CPSETF subscribed successfully'}
+2025-09-09 09:43:05,951 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-09 09:43:12,811 - {'message': 'Stock HDF250 subscribed successfully'}
+2025-09-09 09:43:42,813 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-09 09:43:52,097 - {'message': 'Stock ICI150 subscribed successfully'}
+2025-09-09 09:44:22,099 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-09 09:44:28,263 - {'message': 'Stock ICIAUT subscribed successfully'}
+2025-09-09 09:44:58,265 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-09 09:45:08,111 - {'message': 'Stock ICIFMC subscribed successfully'}
+2025-09-09 09:45:38,113 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-09 09:45:46,406 - {'message': 'Stock ICIHEA subscribed successfully'}
+2025-09-09 09:46:16,408 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-09 09:46:23,042 - {'message': 'Stock MOTNAS subscribed successfully'}
+2025-09-09 09:46:53,043 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-09 09:46:59,425 - {'message': 'Stock SBIEIT subscribed successfully'}
+2025-09-09 09:47:29,427 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-09 09:47:39,432 - {'message': 'Stock ICIEXB subscribed successfully'}
+2025-09-09 09:48:09,434 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-09 09:48:19,519 - {'message': 'Stock SBIBAN subscribed successfully'}
+2025-09-09 09:48:49,521 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-09 09:48:58,536 - {'message': 'Stock MAHMAH subscribed successfully'}
+2025-09-09 09:49:28,538 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-09-09 09:49:42,913 - {'message': 'Stock GODPRO subscribed successfully'}
+2025-09-09 09:50:12,914 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
