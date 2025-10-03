@@ -1,81 +1,40 @@
-import os
-import sys
-from xml.dom import INVALID_MODIFICATION_ERR
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-from tabulate import tabulate
-import openpyxl
-from openpyxl import load_workbook
-from openpyxl.workbook import Workbook
-from datetime import datetime, date, timedelta, time, timezone
-from breeze_connect import BreezeConnect
+from datetime import datetime, timedelta
 import pytz
 
+# Define the UTC timezone
+utc = pytz.timezone('UTC')
 
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.chrome.service import Service as ChromeService
-from selenium.webdriver.firefox.service import Service as FirefoxService
-from selenium.common.exceptions import NoSuchElementException, WebDriverException, ElementClickInterceptedException, TimeoutException
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-import urllib.parse
-import time as tm
+start_date_str = "2013-01-01T09:20:00.000Z"
+end_date_str = "2025-09-29T15:29:00.000Z"
 
-import smtplib
+# Convert end_date string to datetime object and localize to UTC
+end_date_utc = datetime.fromisoformat(end_date_str.replace('Z', '+00:00')).astimezone(utc)
 
-# MIMEMultipart send emails with both text content and attachments.
-from email.mime.multipart import MIMEMultipart
-# MIMEText for creating body of the email message.
-from email.mime.text import MIMEText
-# MIMEApplication attaching application-specific data (like CSV files) to email messages.
-from email.mime.application import MIMEApplication
+# Initialize the start_date as a string
+current_start_date_str = start_date_str
 
-global current_price
-global df
-global s_token
-global inv_df
-global pos_df
-global ema_rsi_df
-global daily_dump_df_list
+while True:
+    # Convert the current start date string to a datetime object localized to UTC
+    start_date_utc = datetime.fromisoformat(current_start_date_str.replace('Z', '+00:00')).astimezone(utc)
 
+    # Check if the current start date is past the end date
+    if start_date_utc > end_date_utc:
+        break
 
-main_excel_file_path = r"C:\Users\Admin\My_Projects\ICICI_Direct_Analysis\INVESTMENT  - 24-Apr-2025.xlsx"
-inv_sheet = "INVESTMENT"
-pos_sheet = "POSITIONS"
-ema_rsi_sheet = "EMA + RSI"
-data_dump_folder = r"C:\Users\Admin\My_Projects\ICICI_Direct_Analysis\DAILY DATA DUMP"
-timestamp_file = r"C:\Users\Admin\My_Projects\ICICI_Direct_Analysis\Session_Key\Timestamp.txt"
-current_status_folder = r"C:\Users\Admin\My_Projects\ICICI_Direct_Analysis\CURRENT STATUS"
-ta_dump = r"C:\Users\Admin\My_Projects\ICICI_Direct_Analysis\TECHNICAL ANALYSIS DUMP"
+    # Format the UTC datetime object back into a string in ISO format with 'Z' for the start date
+    start_date_formatted = start_date_utc.isoformat().replace('+00:00', 'Z')
+    print(f"Start date (UTC): {start_date_formatted}")
 
-new_table = {"Stock": [], "Date": [], 'Close': [], "S_EMA1": [], "S_EMA2": [], "C_EMA1" : [], "C_EMA2": [], "S_RSI_P": [], "S_RSI_L_R": [], 'C_RSI_V': [],  'P_Pos': [], 'C_Pos': []}
-df = pd.DataFrame(new_table)
+    # Calculate the end date for the current start date (already in UTC)
+    # Set time to 15:29 in UTC and ensure microseconds are included
+    end_date_current_utc = start_date_utc.replace(hour=15, minute=29, second=0, microsecond=0)
+    end_date_current_formatted = end_date_current_utc.isoformat().replace('+00:00', 'Z')
 
+    print(f"End date (UTC): {end_date_current_formatted}")
+    print("\n")
 
-def xcel_to_dataframe_creation():
-        file = main_excel_file_path
-        inv_df = pd.read_excel(file, sheet_name=inv_sheet)
-        pos_df = pd.read_excel(file, sheet_name=pos_sheet)
-        ema_rsi_df = pd.read_excel(file, sheet_name=ema_rsi_sheet)
-        #print(inv_df)
-        #print(pos_df)
-        #print(ema_rsi_df)
-        return inv_df, pos_df, ema_rsi_df
+    # Advance the start_date to the next day (in UTC) as a datetime object
+    next_day_start_date_utc = start_date_utc + timedelta(days=1)
 
-
-
-def fetch_stock_list(inv_df):
-    stock_list = inv_df["Stock Symbol"].dropna().tolist()
-    return stock_list
-
-
-inv_df, pos_df, ema_rsi_df = xcel_to_dataframe_creation()
-
-fetch_stock_list(inv_df)
-
-
-
-
+    # Convert the next day's start date datetime object back to a string for the next loop iteration
+    current_start_date_str = next_day_start_date_utc.isoformat().replace('+00:00', 'Z')
