@@ -30,3 +30,65 @@
 2025-10-03 11:26:51,984 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
 2025-10-03 11:26:54,132 - {'message': 'Stock GODPRO subscribed successfully'}
 2025-10-03 11:27:24,132 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-10-07 10:45:07,871 - {'message': 'Stock ICIGOL subscribed successfully'}
+2025-10-07 10:45:37,884 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-10-07 10:45:40,870 - {'message': 'Stock ICIPSE subscribed successfully'}
+2025-10-07 10:46:10,872 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-10-07 10:46:12,072 - {'message': 'Stock KOTN50 subscribed successfully'}
+2025-10-07 10:46:42,073 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-10-07 10:46:47,001 - {'message': 'Stock SBINIF subscribed successfully'}
+2025-10-07 10:47:17,002 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-10-07 10:47:17,882 - {'message': 'Stock CPSETF subscribed successfully'}
+2025-10-07 10:47:47,884 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-10-07 10:47:48,841 - {'message': 'Stock HDF250 subscribed successfully'}
+2025-10-07 10:48:18,843 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-10-07 10:48:19,618 - {'message': 'Stock ICI150 subscribed successfully'}
+2025-10-07 10:48:49,621 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-10-07 10:48:50,405 - {'message': 'Stock ICIAUT subscribed successfully'}
+2025-10-07 10:49:20,407 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-10-07 10:49:22,353 - {'message': 'Stock ICIFMC subscribed successfully'}
+2025-10-07 10:49:52,355 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-10-07 10:49:53,061 - {'message': 'Stock ICIHEA subscribed successfully'}
+2025-10-07 10:50:23,065 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-10-07 10:50:23,877 - {'message': 'Stock MOTNAS subscribed successfully'}
+2025-10-07 10:50:53,880 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-10-07 10:50:55,007 - {'message': 'Stock SBIEIT subscribed successfully'}
+2025-10-07 10:51:25,009 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-10-07 10:51:25,960 - {'message': 'Stock ICIEXB subscribed successfully'}
+2025-10-07 10:51:55,962 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-10-07 10:51:57,065 - {'message': 'Stock SBIBAN subscribed successfully'}
+2025-10-07 10:52:27,068 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-10-07 10:52:28,186 - {'message': 'Stock MAHMAH subscribed successfully'}
+2025-10-07 10:52:58,188 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-10-07 10:52:59,060 - {'message': 'Stock GODPRO subscribed successfully'}
+2025-10-07 10:53:29,062 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-10-07 11:44:28,947 - Exception while subscribing to feeds can only concatenate str (not "bool") to str
+2025-10-07 11:44:58,950 - Error while unsubscribing to feeds : can only concatenate str (not "bool") to str
+2025-10-07 11:44:58,951 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-10-07 11:45:00,291 - Exception while subscribing to feeds can only concatenate str (not "bool") to str
+2025-10-07 11:45:30,292 - Error while unsubscribing to feeds : can only concatenate str (not "bool") to str
+2025-10-07 11:45:30,292 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-10-07 11:45:31,205 - Exception while subscribing to feeds can only concatenate str (not "bool") to str
+2025-10-07 11:46:01,207 - Error while unsubscribing to feeds : can only concatenate str (not "bool") to str
+2025-10-07 11:46:01,208 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-10-07 11:46:02,975 - Exception while subscribing to feeds can only concatenate str (not "bool") to str
+2025-10-07 11:46:32,976 - Error while unsubscribing to feeds : can only concatenate str (not "bool") to str
+2025-10-07 11:46:32,977 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-10-07 11:46:35,318 - Exception while subscribing to feeds can only concatenate str (not "bool") to str
+2025-10-07 11:47:05,320 - Error while unsubscribing to feeds : can only concatenate str (not "bool") to str
+2025-10-07 11:47:05,321 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-10-07 11:47:06,347 - Exception while subscribing to feeds can only concatenate str (not "bool") to str
+2025-10-07 11:47:36,348 - Error while unsubscribing to feeds : can only concatenate str (not "bool") to str
+2025-10-07 11:47:36,350 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-10-07 11:47:46,594 - Exception while subscribing to feeds can only concatenate str (not "bool") to str
+2025-10-07 11:48:16,595 - Error while unsubscribing to feeds : can only concatenate str (not "bool") to str
+2025-10-07 11:48:16,596 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-10-07 11:48:21,714 - Exception while subscribing to feeds can only concatenate str (not "bool") to str
+2025-10-07 11:48:51,715 - Error while unsubscribing to feeds : can only concatenate str (not "bool") to str
+2025-10-07 11:48:51,716 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-10-07 11:48:56,033 - Exception while subscribing to feeds can only concatenate str (not "bool") to str
+2025-10-07 11:49:26,034 - Error while unsubscribing to feeds : can only concatenate str (not "bool") to str
+2025-10-07 11:49:26,035 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
+2025-10-07 11:49:31,862 - Exception while subscribing to feeds can only concatenate str (not "bool") to str
+2025-10-07 11:50:01,863 - Error while unsubscribing to feeds : can only concatenate str (not "bool") to str
+2025-10-07 11:50:01,864 - [{'message': 'socket server for rate refresh  has been disconnected.'}, {'message': 'socket server is not connected to OHLCV Stream.'}, {'message': 'socket server is not connected to order refresh.'}]
